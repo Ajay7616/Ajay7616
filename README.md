@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly exp
 - 👀 **I’m interested in**: Web development, machine learning, and software engineering.
 - 🌱 **I’m currently learning**: Docker and advanced machine learning techniques.
 - 💞️ **I’m looking to collaborate on**: Open-source projects, innovative tech solutions, and research in AI and data science.
-- 📫 **How to reach me**: You can connect with me via [LinkedIn](https://www.linkedin.com/in/ajay-kumar-uthaya-kumar/) or email me at [your-email@example.com].
+- 📫 **How to reach me**: You can connect with me via [LinkedIn](https://www.linkedin.com/in/ajay-kumar-uthaya-kumar/) or email me at [Email](u.ajaykumar7616@gmail.com).
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun fact**: I once built a real-time hand sign detection system using Teachable Machine and Flask!
 
