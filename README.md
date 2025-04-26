@@ -1,17 +1,23 @@
-# 👋 Hi, I’m @Ajay7616
+# 👋 Hi, I’m Ajay Kumar Uthaya Kumar
 
-Welcome to my GitHub profile! I'm passionate about technology and constantly exploring new areas in software development.
+Welcome to my GitHub profile! I'm a Full Stack Web Developer and tech enthusiast, always diving into new challenges in software development.
 
-- 👀 **I’m interested in**: Web development, machine learning, and software engineering.
-- 🌱 **I’m currently learning**: Docker and advanced machine learning techniques.
-- 💞️ **I’m looking to collaborate on**: Open-source projects, innovative tech solutions, and research in AI and data science.
-- 📫 **How to reach me**: You can connect with me via [LinkedIn](https://www.linkedin.com/in/ajay-kumar-uthaya-kumar/) or email me at [Email](u.ajaykumar7616@gmail.com).
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: I once built a real-time hand sign detection system using Teachable Machine and Flask!
+## 👀 I’m interested in:
+- Web development
+- Machine learning
+- Innovative software engineering solutions
 
-Feel free to explore my repositories and reach out if you'd like to work together or just chat about technology!
+## 🌱 I’m currently learning:
+- Website frameworks
 
-<!---
-Ajay7616/Ajay7616 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 How to reach me:
+- **LinkedIn**: [Ajay Kumar Uthaya Kumar](https://www.linkedin.com)
+- **Email**: [u.ajaykumar7616@gmail.com](mailto:u.ajaykumar7616@gmail.com)
+- **Website**: [ajay7616.netlify.app](https://ajay7616.netlify.app)
+
+## 😄 Pronouns: He/Him
+
+## ⚡ Fun fact:
+I built a custom programming language called **ThalapathyVJ**, inspired by Indian cinema, using Python!
+
+Explore my repositories to see projects like **WritersHouse**, **InstaAmi**, and more. Feel free to reach out for collaborations or to geek out about tech!
