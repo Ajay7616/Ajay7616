@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a **Full Stack Web Developer** and currently w
 ## 💼 Experience
 
 ### React.js Developer — Fable Fintech  
-📅 Apr 2025 – Present  
+📅 Apr 2025 – Apr 2026  
 - Building secure and responsive fintech applications  
 - Creating efficient UI/UX for financial platforms  
 
