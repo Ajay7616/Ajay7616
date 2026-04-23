@@ -1,23 +1,72 @@
-# 👋 Hi, I’m Ajay Kumar Uthaya Kumar
+# 👋 Hi, I’m Ajay Kumar Uthaya Kumar  
 
-Welcome to my GitHub profile! I'm a Full Stack Web Developer and tech enthusiast, always diving into new challenges in software development.
+Welcome to my GitHub profile! I'm a **Full Stack Web Developer** and currently working as a **React.js Developer at Fable Fintech**, building secure and user-friendly financial web applications.
 
-## 👀 I’m interested in:
-- Web development
-- Machine learning
-- Innovative software engineering solutions
+---
 
-## 🌱 I’m currently learning:
-- Website frameworks
+## 👀 Interests
+- Full Stack Web Development  
+- Scalable & secure fintech solutions  
+- Machine Learning & AI applications  
+- Innovative software engineering  
 
-## 📫 How to reach me:
-- **LinkedIn**: [Ajay Kumar Uthaya Kumar](https://www.linkedin.com)
-- **Email**: [u.ajaykumar7616@gmail.com](mailto:u.ajaykumar7616@gmail.com)
-- **Website**: [ajay7616.netlify.app](https://ajay7616.netlify.app)
+---
 
-## 😄 Pronouns: He/Him
+## 🌱 Currently Learning
+- Advanced website frameworks  
+- Scalable system design  
+- Performance optimization  
 
-## ⚡ Fun fact:
-I built a custom programming language called **ThalapathyVJ**, inspired by Indian cinema, using Python!
+---
 
-Explore my repositories to see projects like **WritersHouse**, **InstaAmi**, and more. Feel free to reach out for collaborations or to geek out about tech!
+## 💼 Experience
+
+### React.js Developer — Fable Fintech  
+📅 Apr 2025 – Present  
+- Building secure and responsive fintech applications  
+- Creating efficient UI/UX for financial platforms  
+
+### Full Stack Web Developer Intern — Mgrid Technologies  
+📅 Jul 2024 – Apr 2025  
+- Worked with MERN Stack (MongoDB, Express, React, Node.js)  
+- Developed scalable web applications  
+
+---
+
+## 🚀 Projects
+- **SecureVote** – Blockchain-based online voting system  
+- **Grammar Checker Libs** – Real-time grammar correction (NPM package)  
+- **ThalapathyVJ** – Custom programming language (Python)  
+- **WritersHouse** – Story publishing platform  
+- **InstaAmi** – MERN-based social media platform  
+- Live projects: Church websites, Coding platform  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React.js, JavaScript, Tailwind CSS, Bootstrap, HTML5, CSS3  
+**Backend:** Node.js, Express.js, PHP  
+**Database:** MongoDB, SQL  
+**Programming:** Python  
+
+**Tools:** GitHub, Postman, Canva  
+**AI Tools:** GitHub Copilot, Cursor, Claude  
+
+---
+
+## 📫 Contact Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/ajay-kumar-uthaya-kumar  
+- 💻 GitHub: https://github.com/Ajay7616  
+- 📧 Email: u.ajaykumar7616@gmail.com  
+- 🌐 Portfolio: https://ajay7616.netlify.app  
+
+---
+
+## 😄 Pronouns
+He/Him  
+
+---
+
+## ⚡ Fun Fact
+I built a custom programming language called **ThalapathyVJ**, inspired by Tamil cinema 🎬
